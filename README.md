@@ -1,6 +1,6 @@
 # Project_3
 
-Implementacja i analiza efektywnosci algorytmow optymalnych o pseudowielomianowej zlożonosci obliczeniowej dla wybranych problemow kombinatorycznych tj:
+Implementacja i analiza efektywności algorytmów optymalnych o pseudowielomianowej złożoności obliczeniowej dla wybranych problemów kombinatorycznych tj:
 
 -problem plecakowy
 -problem komiwojażera
